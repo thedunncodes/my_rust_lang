@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "baby-steps/*"
+]
+resolver = "3"
